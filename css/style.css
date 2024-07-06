@@ -242,6 +242,10 @@ body {
     font-size: 13px;
     width: 344px;
 }
+.info {
+    display: flex;
+    align-items: center;
+}
 
 .info div {
     word-break: break-all;
